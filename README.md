@@ -1,6 +1,6 @@
 # n8n Content Automation Workflows
 
-![n8n Automation Banner](image_23.png)
+![n8n Automation Banner](123.png)
 
 ## 🚀 Professional n8n Automation & AI Portfolio
 
