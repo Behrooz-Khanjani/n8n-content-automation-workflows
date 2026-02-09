@@ -1,7 +1,7 @@
 # 🤖 Intelligent Telegram CRM & AI Scenario Generator
 
 ![Workflow Preview](1111.png)
-*(تصویر بالا نمای کلی ورک‌فلو را نشان می‌دهد)*
+
 
 ## 🚀 Project Overview
 This project is an advanced **n8n workflow** designed to automate customer interactions and lead management on Telegram using Generative AI. It acts as an intelligent bridge between user inputs, AI processing, and database management.
